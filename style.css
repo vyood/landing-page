@@ -1,1 +1,24 @@
-*
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color: white;
+    background-color: rgb(50, 50, 131);
+}
+
+.headertop {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
