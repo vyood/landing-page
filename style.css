@@ -92,3 +92,7 @@ button {
     margin: 50px;
     text-align: center;
 }
+
+span {
+    display: flex;
+}
