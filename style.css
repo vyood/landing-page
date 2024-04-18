@@ -58,7 +58,7 @@ img {
     margin-left: 44px;
 }
 
-button {
+.header-button {
     background-color: #3882F6;
     color: white;
     padding: 5px 20px;
@@ -77,7 +77,7 @@ button {
     color: #1F2937;
     font-size: 18px;
     display: flex;
-    gap: 20px;
+    gap: 45px;
     justify-content: center;
 }
 
@@ -86,6 +86,13 @@ button {
     height: 150px;
     border: 5px solid #3882F6;
     border-radius: 10px;
+}
+
+.square-txt {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .section2 {
@@ -109,4 +116,25 @@ button {
     color: #1F2937;
     font-weight: bolder;
     align-self: flex-end;
+}
+
+.section4 {
+    padding: 88px 111px;
+}
+
+.call-action {
+    background-color: #3882F6;
+    border-radius: 4px;
+    color: #F9FAF8;
+    display: flex;
+    padding: 33px;
+    justify-content: space-around;
+}
+
+.call-action-button {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 2px solid white;
 }
