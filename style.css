@@ -93,6 +93,20 @@ button {
     text-align: center;
 }
 
-span {
+.section3 {
+    background-color: #E5E7EB;
+    padding: 200px;
     display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-author {
+    color: #1F2937;
+    font-weight: bolder;
+    align-self: flex-end;
 }
