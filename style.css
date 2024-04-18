@@ -127,7 +127,7 @@ img {
     border-radius: 4px;
     color: #F9FAF8;
     display: flex;
-    padding: 33px;
+    padding: 40px;
     justify-content: space-around;
 }
 
@@ -137,4 +137,17 @@ img {
     padding: 5px 20px;
     border-radius: 8px;
     border: 2px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.copyright {
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
 }
